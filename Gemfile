@@ -41,6 +41,7 @@ gem "jbuilder"
  gem 'jwt', '~> 2.9', '>= 2.9.3'
  gem 'rack-cors', '~> 2.0', '>= 2.0.2'
  gem 'cancancan', '~> 3.6', '>= 3.6.1'
+ gem 'audited', '~> 5.7'
  
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
